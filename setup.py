@@ -61,7 +61,7 @@ setup(
         'pyyaml',
         'requests',
         'tox',
-        'wheel==0.30.0'
+        'wheel==0.38.1'
     ],
     extras_require={
         ":python_version<'3.0'": ['pylint==1.9.2'],
